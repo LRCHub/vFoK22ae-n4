@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ドライドライフラワー",
+  "base_artist": "とあ",
+  "createdAt": "2026-01-13T16:46:17.461312Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドライドライフラワー (feat. 初音ミク)",
+      "artist": "とあ",
+      "has_synced": false,
+      "path": "select/pl_01_ドライドライフラワー_(feat._初音ミク)_とあ.txt"
+    }
+  ]
+}
